@@ -16,7 +16,7 @@ students, in an unprecedented way using machine learning and web communication m
 
 ## Documentation
 
-Full documentation can be found [online](http://doc.cytomine.be).
+Full documentation can be found [online](http://doc.cytomine.org).
 
 ## Install
 
@@ -32,7 +32,7 @@ Check [how to install a development environment for Cytomine](http://doc.cytomin
 When using our software, we kindly ask you to cite our website url and related publications in all your work (publications, studies, oral presentations,...). In particular, we recommend to cite (Marée et al., Bioinformatics 2016) paper, and to use our logo when appropriate. See our license files for additional details.
 
 - URL: http://www.cytomine.org/
-- Logo: [Available here](https://cytomine.coop/sites/cytomine.coop/files/inline-images/logo-300-org.png)
+- Logo: [Available here](https://cytomine.com/sites/cytomine.com/files/inline-images/logo-300-org.png)
 - Scientific paper: Raphaël Marée, Loïc Rollus, Benjamin Stévens, Renaud Hoyoux, Gilles Louppe, Rémy Vandaele, Jean-Michel Begon, Philipp Kainz, Pierre Geurts and Louis Wehenkel. Collaborative analysis of multi-gigapixel imaging data using Cytomine, Bioinformatics, DOI: [10.1093/bioinformatics/btw013](http://dx.doi.org/10.1093/bioinformatics/btw013), 2016. 
 
 ## License
